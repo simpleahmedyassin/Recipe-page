@@ -1,6 +1,6 @@
 ### Recipe-page
 A clean and minimalist recipe represented in an elegant page designed with a focus on structured data and modern layout techniques.
-![Screenshot of my Recipe Page](screenshots/Screenshot 2026-03-14 180359.png)
+![Screenshot of my Recipe Page](main/screenshots/Screenshot 2026-03-14 180359.png)
 ## 🚀 Purpose
 This project is part of my portfolio to demonstrate my skills in converting a design concept into a functional, responsive web page. I focused on:
 * **Semantic HTML**: Using correct tags for accessibility.
