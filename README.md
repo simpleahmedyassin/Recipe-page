@@ -1,4 +1,4 @@
-<img src="screenshots/Screenshot 2026-03-14 180359.png" alt="test" widh = "75%" height = "50%" style = "{display:"inline"}"> 
+<img src="screenshots/Screenshot 2026-03-14 180359.png" alt="test" width="75%" height="50%" style="display: inline;">
 ### Recipe-page
 A clean and minimalist recipe represented in an elegant page designed with a focus on structured data and modern layout techniques.
 ## 🚀 Purpose
