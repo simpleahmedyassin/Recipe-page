@@ -1,10 +1,10 @@
-<img src="screenshots/Screenshot 2026-03-14 180359.png" alt="test" width="75%" height="50%" style="display: inline;">
 ### Recipe-page
 A clean and minimalist recipe represented in an elegant page designed with a focus on structured data and modern layout techniques.
 ## 🚀 Purpose
 This project is part of my portfolio to demonstrate my skills in converting a design concept into a functional, responsive web page. I focused on:
 * **Semantic HTML**: Using correct tags for accessibility.
 * **Pixel-Perfect CSS**: Ensuring borders and spacing are consistent.
+<figure><img src="screenshots/Screenshot 2026-03-14 180359.png" alt="test" width="75%" height="50%" style="display: inline;"> </figure>
 
 ## 🛠️ Built With
 * **HTML5**: Used `<table>` for nutritional data and `<ul>`/`<ol>` for ingredients and steps.
